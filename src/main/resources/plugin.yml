@@ -1,0 +1,12 @@
+name: Profiles
+version: '1.0'
+main: net.civicraft.profiles.Profiles
+api-version: '1.21'
+author: tair0
+softdepend: [LuckPerms]
+commands:
+  profile:
+    description: Opens up a user's profile
+    usage: "/profile <target>"
+  profiles:
+    description: Manages plugin

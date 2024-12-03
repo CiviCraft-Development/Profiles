@@ -1,0 +1,7 @@
+discord:
+  enabled: false # Set true to enable discord add-on
+  token: "" # Add token for discord add-on to properly function
+command:
+  setstatus: false # If a player can set their status via command (/profile setstatus <Status>)
+default-status: "I love this server!" # Default status every player automatically gets
+blacklist: [] # Word/phrase blacklist of disallowed content in statuses
