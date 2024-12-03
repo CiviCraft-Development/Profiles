@@ -19,6 +19,6 @@ By default, the discord add-on is disabled. You must enable it, add the Discord 
 `/profile <player>` - Returns the profile of the specified player via embed.
 
 ## Request a Feature
-This plugin will only be actively worked on by request aside from version updates and any needed changes associated with it. To request a new feature be implemented, <a href="https://github.com/CiviCraft-Development/Profiles/issues">submit an issue with the feature request label.</a> Always happy to add new things to it!
+Because this plugin isn't actively used by CiviCraft, it will only receive updates based on requests aside from version updates and any needed changes associated with it. To request a new feature be implemented, <a href="https://github.com/CiviCraft-Development/Profiles/issues">submit an issue with the feature request label.</a> Always happy to add new things to it!
 
 Contributions are always welcomed!
