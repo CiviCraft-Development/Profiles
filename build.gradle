@@ -22,10 +22,10 @@ repositories {
 }
 
 dependencies {
-    compileOnly("io.papermc.paper:paper-api:1.21.3-R0.1-SNAPSHOT")
-    implementation 'com.github.stefvanschie.inventoryframework:IF:0.10.18'
+    compileOnly("io.papermc.paper:paper-api:1.21.4-R0.1-SNAPSHOT")
+    implementation 'com.github.stefvanschie.inventoryframework:IF:0.10.19'
     compileOnly 'net.luckperms:api:5.4'
-    implementation("net.dv8tion:JDA:5.2.1")
+    implementation("net.dv8tion:JDA:5.3.0")
 }
 
 shadowJar {
