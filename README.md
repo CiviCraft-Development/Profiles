@@ -1,5 +1,5 @@
 # Profiles
-
+*Note: Profiles is currently being phased out and being replaced by OpenProfileViewer. This repository may still receive updates, but it is not a priority.*
 ## Commands & Permissions
 `/profile` - Opens up the players profile. Permission: `profiles.view`
 
